@@ -2,6 +2,7 @@
 
 import UIKit
 import RxSwift
+import RxCocoa
 
 /*protocol CharacterDelegate {
     func didSelectCharacter (_ name:String)
